@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>All Wizarding News</title>
+    <link rel="stylesheet" href="home.css" />
+  </head>
+
+  <body>
+    <h3>Wizard news from around the world</h3>
+
+      <% @articles.each do |article| %>
+        <ul>
+          <li><strong>Article name:</strong><br> <%= article.name %></li>
+          <li><strong>URL:</strong><br> <a href=<%=article.url %>><%= article.url %></a></li>
+          <li><strong>Description:</strong><br> <%= article.description %></li>
+        </ul>
+      <% end %>
+
+    <a href=http://localhost:9393/>back</a>
+
+  </body>
+</html>

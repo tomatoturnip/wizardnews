@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Wizard News</title>
+  <link rel="stylesheet" href="home.css" />
+</head>
+
+<body>
+  <h3>Submit an article</h3>
+
+  <form action="/articles" method="post">
+    <div>
+      <label for="article_name">Name of article:</label>
+      <input type="text" id="article_name" name="article_name" />
+    </div>
+    <br></br>
+    <div>
+      <label for="url_name">URL:</label>
+      <input type="text" id="url_name" name="url_name" />
+    </div>
+    <br></br>
+    <div>
+      <label for="description">Description:</label>
+      <input type="text" id="description" name="description" />
+    </div>
+    <br></br>
+    <div>
+      <input type="submit" />
+    </div>
+    <a href=http://localhost:9393/all-articles >all articles</a>
+  </form>
+</body>
+</html>

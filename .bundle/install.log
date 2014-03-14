@@ -1,0 +1,16 @@
+# Logfile created on 2014-03-12 17:20:57 -0400 by logger.rb/41954
+I, [2014-03-12T17:20:57.951143 #6177]  INFO -- : 0:  coderay (1.1.0) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/coderay-1.1.0.gemspec
+I, [2014-03-12T17:20:57.951495 #6177]  INFO -- : 0:  diff-lcs (1.2.5) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/diff-lcs-1.2.5.gemspec
+I, [2014-03-12T17:20:57.951730 #6177]  INFO -- : 0:  method_source (0.8.2) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/method_source-0.8.2.gemspec
+I, [2014-03-12T17:20:57.951931 #6177]  INFO -- : 0:  slop (3.4.7) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/slop-3.4.7.gemspec
+I, [2014-03-12T17:20:57.952148 #6177]  INFO -- : 0:  pry (0.9.12.6) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/pry-0.9.12.6.gemspec
+I, [2014-03-12T17:20:57.952372 #6177]  INFO -- : 0:  rack (1.5.2) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rack-1.5.2.gemspec
+I, [2014-03-12T17:20:57.952580 #6177]  INFO -- : 0:  rack-protection (1.5.2) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rack-protection-1.5.2.gemspec
+I, [2014-03-12T17:20:57.952777 #6177]  INFO -- : 0:  rspec-core (2.14.8) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rspec-core-2.14.8.gemspec
+I, [2014-03-12T17:20:57.952989 #6177]  INFO -- : 0:  rspec-expectations (2.14.5) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rspec-expectations-2.14.5.gemspec
+I, [2014-03-12T17:20:57.953210 #6177]  INFO -- : 0:  rspec-mocks (2.14.6) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rspec-mocks-2.14.6.gemspec
+I, [2014-03-12T17:20:57.953400 #6177]  INFO -- : 0:  rspec (2.14.1) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/rspec-2.14.1.gemspec
+I, [2014-03-12T17:20:57.953607 #6177]  INFO -- : 0:  shotgun (0.9) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/shotgun-0.9.gemspec
+I, [2014-03-12T17:20:57.953824 #6177]  INFO -- : 0:  tilt (1.4.1) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/tilt-1.4.1.gemspec
+I, [2014-03-12T17:20:57.954034 #6177]  INFO -- : 0:  sinatra (1.4.4) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/sinatra-1.4.4.gemspec
+I, [2014-03-12T17:20:57.954200 #6177]  INFO -- : 0:  bundler (1.5.1) from /Users/lydiaho/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/gems/2.0.0/specifications/bundler-1.5.1.gemspec
